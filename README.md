@@ -22,7 +22,7 @@ My name is Augusto, I am an Argentine student of a Bachelor's degree in informat
 
 ## Wishes
 
-*Forge my path in IT as a true professional, learning more technologies every dayecho "# augustofavrearg" >> README.mdgit initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/augustofavrearg/augustofavrearg.gitgit push -u origin main
+*Forge my path in IT as a true professional, learning more technologies every day
 
 ## Contact
 

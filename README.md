@@ -1,6 +1,6 @@
 ## Hello
 
-My name is Augusto, I am an Argentine student of a Bachelor's degree in information systems andBachelor's Degree in Business Administration
+My name is Augusto, I am an Argentine student of a Bachelor's degree in information systems and Bachelor's Degree in Business Administration
 
 *Currently working as a freelance developer on Fiverr and UpWork [https://es.fiverr.com/augustoramonfav?up_rollout=true]
 
@@ -11,6 +11,8 @@ My name is Augusto, I am an Argentine student of a Bachelor's degree in informat
 ## Skills
 
 *Python, Flask and Django
+
+*Java, SpringBoot
 
 *Javascript, Vanilla, React and Next Js
 

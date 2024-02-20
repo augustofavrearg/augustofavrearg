@@ -2,7 +2,9 @@
 
 My name is Augusto, I am an Argentine student of a Bachelor's degree in information systems and Bachelor's Degree in Business Administration
 
-*Currently working as a freelance developer on Fiverr and UpWork [https://es.fiverr.com/augustoramonfav?up_rollout=true]
+*Currently working at Ernst & Young [https://www.ey.com/en_gl/forensic-integrity-services]
+
+*Currently working as a freelance developer on Fiverr [https://es.fiverr.com/augustoramonfav?up_rollout=true]
 
 *Currently working as a freelance developer on UpWork [https://www.upwork.com/freelancers/~01ddd3ed8c43e545ff?viewMode=1]
 
@@ -14,7 +16,7 @@ My name is Augusto, I am an Argentine student of a Bachelor's degree in informat
 
 *Java, SpringBoot
 
-*Javascript, Vanilla, React and Next Js
+*Javascript, Vanilla, React and Node Js
 
 *Critical thinking, decision-making and problem solving skills
 
